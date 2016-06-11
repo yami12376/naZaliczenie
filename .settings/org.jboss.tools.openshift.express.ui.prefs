@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+org.jboss.tools.openshift.ApplicationId=575c7f1a89f5cf14b50000a4
+org.jboss.tools.openshift.ApplicationName=nazaliczenie
+org.jboss.tools.openshift.Connection=https\://kamil_wit1%40wp.pl@openshift.redhat.com
+org.jboss.tools.openshift.DeployFolder=deployments
+org.jboss.tools.openshift.Domain=nazaliczenie
+org.jboss.tools.openshift.RemoteName=openshift
